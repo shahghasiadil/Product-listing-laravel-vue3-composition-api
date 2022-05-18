@@ -21516,7 +21516,7 @@ var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   "class": "px-6 py-3 bg-gray-50"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "text-xs font-medium tracking-wider leading-4 text-left text-gray-500 uppercase"
-}, "Auther")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("th", {
+}, "Author")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("th", {
   "class": "px-6 py-3 bg-gray-50"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "text-xs font-medium tracking-wider leading-4 text-left text-gray-500 uppercase"
@@ -21535,7 +21535,7 @@ var _hoisted_6 = {
   "class": "px-6 py-4 text-center text-sm leading-5 text-gray-900 whitespace-no-wrap"
 };
 var _hoisted_7 = {
-  "class": "px-6 py-4 text-sm text-centerleading-5 text-gray-900 whitespace-no-wrap"
+  "class": "px-6 py-4 text-sm text-center text-centerleading-5 text-gray-900 whitespace-no-wrap"
 };
 var _hoisted_8 = {
   "class": "px-6 text-center py-4 text-sm leading-5 text-center text-gray-900 whitespace-no-wrap"

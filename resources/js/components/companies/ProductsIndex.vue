@@ -18,7 +18,7 @@
                     <th class="px-6 py-3 bg-gray-50">
                         <span
                             class="text-xs font-medium tracking-wider leading-4 text-left text-gray-500 uppercase"
-                            >Auther</span
+                            >Author</span
                         >
                     </th>
                     <th class="px-6 py-3 bg-gray-50">
@@ -46,7 +46,7 @@
                             {{ item.name }}
                         </td>
                         <td
-                            class="px-6 py-4 text-sm text-centerleading-5 text-gray-900 whitespace-no-wrap"
+                            class="px-6 py-4 text-sm text-center text-centerleading-5 text-gray-900 whitespace-no-wrap"
                         >
                             {{ item.author.name }}
                         </td>
